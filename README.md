@@ -87,4 +87,5 @@ Feel free to use this repository as a starting point for similar classification 
 
 ---
 
-**Author:** Muhammad Huzaifa Zeb.
+**Authors:** Muhammad Huzaifa Zeb.
+             Muhammad Bilal.
