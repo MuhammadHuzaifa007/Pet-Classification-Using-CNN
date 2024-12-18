@@ -1,6 +1,6 @@
-matplotlib
 streamlit==1.38.0
 tensorflow==2.17.0rc1
+matplotlib
 numpy
 Pillow
 scikit-learn
