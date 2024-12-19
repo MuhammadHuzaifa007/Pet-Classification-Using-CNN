@@ -1,8 +1,7 @@
-streamlit==1.41.1
-tensorflow==2.17.0rc1
-numpy==2.2.0
-pillow==11.0.0
-scikit-learn
+streamlit
+matplotlib
+seaborn
+pandas
+numpy
 tqdm
-matplotlib==3.7.1
-
+tensorflow
