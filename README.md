@@ -1,4 +1,4 @@
-# Pet Classification using Convolutional Neural Networks (CNN)
+# Pet Classification
 
 This repository contains a Python project for binary image classification using Convolutional Neural Networks (CNN). The project classifies images as either "Cat" or "Dog" using a pre-trained VGG16 model fine-tuned for this task. Below is a detailed overview of the project, its functionality, and how to use it.
 
